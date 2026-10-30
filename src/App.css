@@ -1,0 +1,8 @@
+/* App.css: keep this file small.
+   All the main styles (sky, glass cards, snow, background image) live in index.css. */
+
+html, body, #root {
+  width: 100%;
+  min-height: 100vh;
+  margin: 0;
+}
